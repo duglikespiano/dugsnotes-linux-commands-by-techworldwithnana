@@ -15,7 +15,6 @@
 
 - 프로젝트명 : dugsnotes_linux_commands_by_techworldwithnana
 - 관련URL : https://youtu.be/CLh2ACdXNbc?si=HF4vKuodw2q82mp1
-- 기간 : 2026.02.27 - 진행중
 - 인원 : 1인
 - 기술스택 : </br>
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">

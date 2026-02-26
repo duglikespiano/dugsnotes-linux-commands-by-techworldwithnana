@@ -15,7 +15,6 @@
 
 - Project title : dugsnotes_linux_commands_by_techworldwithnana
 - Related URL : https://youtu.be/CLh2ACdXNbc?si=HF4vKuodw2q82mp1
-- Period : Feb 27 2026 - in progress
 - Member(s) : Dug Park
 - Tech stack : </br>
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
