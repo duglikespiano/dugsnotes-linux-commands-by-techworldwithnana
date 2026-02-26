@@ -1,6 +1,8 @@
 # diff
 
-The diff command in Linux is a powerful command-line utility used to compare two files or directories line by line and output the differences. It highlights what changes (additions, deletions, or modifications) are needed to make the first file identical to the second.
+The diff command in Linux is a powerful command-line utility used to compare two files or directories line by line and output the differences. 
+
+It highlights what changes (additions, deletions, or modifications) are needed to make the first file identical to the second.
 
 ## options
 | Option |	Description	|
