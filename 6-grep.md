@@ -17,7 +17,7 @@ Its name stands for "Globally search for a Regular Expression and Print it out".
 - -C n: Print n lines of Context (before and after) around the matching line. 
 
 ## usage
-`grep "specific_word" filename.txt`
+`grep "specific_word" filename.txt`  
 searches for "specific_word" in filename.txt.
 
 ## example

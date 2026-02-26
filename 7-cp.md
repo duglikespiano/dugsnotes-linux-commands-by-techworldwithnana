@@ -17,11 +17,11 @@ The cp command in Linux is used to copy files and directories from one location 
 `cp [OPTIONS] source_file destination`
 
 ## example
-`cp file1.txt file2.txt`
+`cp file1.txt file2.txt`  
 This command creates a copy of file1.txt named file2.txt in the current directory.
 
-`cp file1.txt /home/user/documents/`
+`cp file1.txt /home/user/documents/`  
 This command copies file1.txt into the documents directory, retaining the original name.
 
-`cp -r dir1/ dir2/`
+`cp -r dir1/ dir2/`  
 The -r (recursive) option is required to copy a directory and its contents, including subdirectories. 
